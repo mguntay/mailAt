@@ -1,0 +1,17 @@
+c:\users\nilu\documents\visual studio 2010\Projects\wingmailapplication\wingmailapplication\bin\Debug\wingmailapplication.exe
+c:\users\nilu\documents\visual studio 2010\Projects\wingmailapplication\wingmailapplication\bin\Debug\wingmailapplication.pdb
+c:\users\nilu\documents\visual studio 2010\Projects\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.Form1.resources
+c:\users\nilu\documents\visual studio 2010\Projects\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.Properties.Resources.resources
+c:\users\nilu\documents\visual studio 2010\Projects\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.csproj.GenerateResource.Cache
+c:\users\nilu\documents\visual studio 2010\Projects\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.exe
+c:\users\nilu\documents\visual studio 2010\Projects\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.pdb
+C:\Users\nilu\Documents\Visual Studio 2010\Projects\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.csprojResolveAssemblyReference.cache
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\bin\Debug\wingmailapplication.exe
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\bin\Debug\wingmailapplication.pdb
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.csprojAssemblyReference.cache
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.Form1.resources
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.Properties.Resources.resources
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.csproj.GenerateResource.cache
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.csproj.CoreCompileInputs.cache
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.exe
+C:\Users\muammer.guntay\Desktop\YMS4484\wingmailapplication\wingmailapplication\obj\x86\Debug\wingmailapplication.pdb
